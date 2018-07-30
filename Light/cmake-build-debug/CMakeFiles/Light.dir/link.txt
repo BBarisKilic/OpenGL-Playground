@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Light.dir/main.cpp.o  -o Light /usr/lib/x86_64-linux-gnu/libGL.so /usr/lib/x86_64-linux-gnu/libGLU.so /usr/lib/x86_64-linux-gnu/libSDL2.so 
