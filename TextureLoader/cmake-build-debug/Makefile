@@ -48,10 +48,10 @@ RM = /home/bbk/ProgramFiles/CLion/bin/cmake/linux/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/bbk/CLionProjects/OpenGLPlayground/Light
+CMAKE_SOURCE_DIR = /home/bbk/CLionProjects/OpenGLPlayground/TextureLoader
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/bbk/CLionProjects/OpenGLPlayground/Light/cmake-build-debug
+CMAKE_BINARY_DIR = /home/bbk/CLionProjects/OpenGLPlayground/TextureLoader/cmake-build-debug
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -80,9 +80,9 @@ edit_cache/fast: edit_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/bbk/CLionProjects/OpenGLPlayground/Light/cmake-build-debug/CMakeFiles /home/bbk/CLionProjects/OpenGLPlayground/Light/cmake-build-debug/CMakeFiles/progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/bbk/CLionProjects/OpenGLPlayground/TextureLoader/cmake-build-debug/CMakeFiles /home/bbk/CLionProjects/OpenGLPlayground/TextureLoader/cmake-build-debug/CMakeFiles/progress.marks
 	$(MAKE) -f CMakeFiles/Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/bbk/CLionProjects/OpenGLPlayground/Light/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/bbk/CLionProjects/OpenGLPlayground/TextureLoader/cmake-build-debug/CMakeFiles 0
 .PHONY : all
 
 # The main clean target
@@ -111,17 +111,17 @@ depend:
 .PHONY : depend
 
 #=============================================================================
-# Target rules for targets named Light
+# Target rules for targets named TextureLoader
 
 # Build rule for target.
-Light: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 Light
-.PHONY : Light
+TextureLoader: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 TextureLoader
+.PHONY : TextureLoader
 
 # fast build rule for target.
-Light/fast:
-	$(MAKE) -f CMakeFiles/Light.dir/build.make CMakeFiles/Light.dir/build
-.PHONY : Light/fast
+TextureLoader/fast:
+	$(MAKE) -f CMakeFiles/TextureLoader.dir/build.make CMakeFiles/TextureLoader.dir/build
+.PHONY : TextureLoader/fast
 
 main.o: main.cpp.o
 
@@ -129,7 +129,7 @@ main.o: main.cpp.o
 
 # target to build an object file
 main.cpp.o:
-	$(MAKE) -f CMakeFiles/Light.dir/build.make CMakeFiles/Light.dir/main.cpp.o
+	$(MAKE) -f CMakeFiles/TextureLoader.dir/build.make CMakeFiles/TextureLoader.dir/main.cpp.o
 .PHONY : main.cpp.o
 
 main.i: main.cpp.i
@@ -138,7 +138,7 @@ main.i: main.cpp.i
 
 # target to preprocess a source file
 main.cpp.i:
-	$(MAKE) -f CMakeFiles/Light.dir/build.make CMakeFiles/Light.dir/main.cpp.i
+	$(MAKE) -f CMakeFiles/TextureLoader.dir/build.make CMakeFiles/TextureLoader.dir/main.cpp.i
 .PHONY : main.cpp.i
 
 main.s: main.cpp.s
@@ -147,7 +147,7 @@ main.s: main.cpp.s
 
 # target to generate assembly for a file
 main.cpp.s:
-	$(MAKE) -f CMakeFiles/Light.dir/build.make CMakeFiles/Light.dir/main.cpp.s
+	$(MAKE) -f CMakeFiles/TextureLoader.dir/build.make CMakeFiles/TextureLoader.dir/main.cpp.s
 .PHONY : main.cpp.s
 
 # Help Target
@@ -158,7 +158,7 @@ help:
 	@echo "... depend"
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
-	@echo "... Light"
+	@echo "... TextureLoader"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

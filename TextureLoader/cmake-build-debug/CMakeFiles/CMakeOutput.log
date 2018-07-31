@@ -10,7 +10,7 @@ The output was:
 
 Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "a.out"
 
-The C compiler identification is GNU, found in "/home/bbk/CLionProjects/OpenGLPlayground/Light/cmake-build-debug/CMakeFiles/3.12.0/CompilerIdC/a.out"
+The C compiler identification is GNU, found in "/home/bbk/CLionProjects/OpenGLPlayground/TextureLoader/cmake-build-debug/CMakeFiles/3.12.0/CompilerIdC/a.out"
 
 Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
 Compiler: /usr/bin/c++ 
@@ -23,33 +23,33 @@ The output was:
 
 Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "a.out"
 
-The CXX compiler identification is GNU, found in "/home/bbk/CLionProjects/OpenGLPlayground/Light/cmake-build-debug/CMakeFiles/3.12.0/CompilerIdCXX/a.out"
+The CXX compiler identification is GNU, found in "/home/bbk/CLionProjects/OpenGLPlayground/TextureLoader/cmake-build-debug/CMakeFiles/3.12.0/CompilerIdCXX/a.out"
 
 Determining if the C compiler works passed with the following output:
-Change Dir: /home/bbk/CLionProjects/OpenGLPlayground/Light/cmake-build-debug/CMakeFiles/CMakeTmp
+Change Dir: /home/bbk/CLionProjects/OpenGLPlayground/TextureLoader/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_639d3/fast"
-/usr/bin/make -f CMakeFiles/cmTC_639d3.dir/build.make CMakeFiles/cmTC_639d3.dir/build
-make[1]: Entering directory '/home/bbk/CLionProjects/OpenGLPlayground/Light/cmake-build-debug/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_639d3.dir/testCCompiler.c.o
-/usr/bin/cc    -o CMakeFiles/cmTC_639d3.dir/testCCompiler.c.o   -c /home/bbk/CLionProjects/OpenGLPlayground/Light/cmake-build-debug/CMakeFiles/CMakeTmp/testCCompiler.c
-Linking C executable cmTC_639d3
-/home/bbk/ProgramFiles/CLion/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_639d3.dir/link.txt --verbose=1
-/usr/bin/cc      CMakeFiles/cmTC_639d3.dir/testCCompiler.c.o  -o cmTC_639d3 
-make[1]: Leaving directory '/home/bbk/CLionProjects/OpenGLPlayground/Light/cmake-build-debug/CMakeFiles/CMakeTmp'
+Run Build Command:"/usr/bin/make" "cmTC_a67aa/fast"
+/usr/bin/make -f CMakeFiles/cmTC_a67aa.dir/build.make CMakeFiles/cmTC_a67aa.dir/build
+make[1]: Entering directory '/home/bbk/CLionProjects/OpenGLPlayground/TextureLoader/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_a67aa.dir/testCCompiler.c.o
+/usr/bin/cc    -o CMakeFiles/cmTC_a67aa.dir/testCCompiler.c.o   -c /home/bbk/CLionProjects/OpenGLPlayground/TextureLoader/cmake-build-debug/CMakeFiles/CMakeTmp/testCCompiler.c
+Linking C executable cmTC_a67aa
+/home/bbk/ProgramFiles/CLion/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_a67aa.dir/link.txt --verbose=1
+/usr/bin/cc      CMakeFiles/cmTC_a67aa.dir/testCCompiler.c.o  -o cmTC_a67aa 
+make[1]: Leaving directory '/home/bbk/CLionProjects/OpenGLPlayground/TextureLoader/cmake-build-debug/CMakeFiles/CMakeTmp'
 
 
 Detecting C compiler ABI info compiled with the following output:
-Change Dir: /home/bbk/CLionProjects/OpenGLPlayground/Light/cmake-build-debug/CMakeFiles/CMakeTmp
+Change Dir: /home/bbk/CLionProjects/OpenGLPlayground/TextureLoader/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_def9f/fast"
-/usr/bin/make -f CMakeFiles/cmTC_def9f.dir/build.make CMakeFiles/cmTC_def9f.dir/build
-make[1]: Entering directory '/home/bbk/CLionProjects/OpenGLPlayground/Light/cmake-build-debug/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_def9f.dir/CMakeCCompilerABI.c.o
-/usr/bin/cc    -o CMakeFiles/cmTC_def9f.dir/CMakeCCompilerABI.c.o   -c /home/bbk/ProgramFiles/CLion/bin/cmake/linux/share/cmake-3.12/Modules/CMakeCCompilerABI.c
-Linking C executable cmTC_def9f
-/home/bbk/ProgramFiles/CLion/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_def9f.dir/link.txt --verbose=1
-/usr/bin/cc     -v CMakeFiles/cmTC_def9f.dir/CMakeCCompilerABI.c.o  -o cmTC_def9f 
+Run Build Command:"/usr/bin/make" "cmTC_41f29/fast"
+/usr/bin/make -f CMakeFiles/cmTC_41f29.dir/build.make CMakeFiles/cmTC_41f29.dir/build
+make[1]: Entering directory '/home/bbk/CLionProjects/OpenGLPlayground/TextureLoader/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_41f29.dir/CMakeCCompilerABI.c.o
+/usr/bin/cc    -o CMakeFiles/cmTC_41f29.dir/CMakeCCompilerABI.c.o   -c /home/bbk/ProgramFiles/CLion/bin/cmake/linux/share/cmake-3.12/Modules/CMakeCCompilerABI.c
+Linking C executable cmTC_41f29
+/home/bbk/ProgramFiles/CLion/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_41f29.dir/link.txt --verbose=1
+/usr/bin/cc     -v CMakeFiles/cmTC_41f29.dir/CMakeCCompilerABI.c.o  -o cmTC_41f29 
 Using built-in specs.
 COLLECT_GCC=/usr/bin/cc
 COLLECT_LTO_WRAPPER=/usr/lib/gcc/x86_64-linux-gnu/7/lto-wrapper
@@ -61,24 +61,24 @@ Thread model: posix
 gcc version 7.3.0 (Ubuntu 7.3.0-16ubuntu3) 
 COMPILER_PATH=/usr/lib/gcc/x86_64-linux-gnu/7/:/usr/lib/gcc/x86_64-linux-gnu/7/:/usr/lib/gcc/x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/7/:/usr/lib/gcc/x86_64-linux-gnu/
 LIBRARY_PATH=/usr/lib/gcc/x86_64-linux-gnu/7/:/usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/7/../../../../lib/:/lib/x86_64-linux-gnu/:/lib/../lib/:/usr/lib/x86_64-linux-gnu/:/usr/lib/../lib/:/usr/lib/gcc/x86_64-linux-gnu/7/../../../:/lib/:/usr/lib/
-COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_def9f' '-mtune=generic' '-march=x86-64'
- /usr/lib/gcc/x86_64-linux-gnu/7/collect2 -plugin /usr/lib/gcc/x86_64-linux-gnu/7/liblto_plugin.so -plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/7/lto-wrapper -plugin-opt=-fresolution=/tmp/cc5X9RGI.res -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s --sysroot=/ --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -dynamic-linker /lib64/ld-linux-x86-64.so.2 -pie -z now -z relro -o cmTC_def9f /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/Scrt1.o /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/7/crtbeginS.o -L/usr/lib/gcc/x86_64-linux-gnu/7 -L/usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/7/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/7/../../.. CMakeFiles/cmTC_def9f.dir/CMakeCCompilerABI.c.o -lgcc --push-state --as-needed -lgcc_s --pop-state -lc -lgcc --push-state --as-needed -lgcc_s --pop-state /usr/lib/gcc/x86_64-linux-gnu/7/crtendS.o /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crtn.o
-COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_def9f' '-mtune=generic' '-march=x86-64'
-make[1]: Leaving directory '/home/bbk/CLionProjects/OpenGLPlayground/Light/cmake-build-debug/CMakeFiles/CMakeTmp'
+COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_41f29' '-mtune=generic' '-march=x86-64'
+ /usr/lib/gcc/x86_64-linux-gnu/7/collect2 -plugin /usr/lib/gcc/x86_64-linux-gnu/7/liblto_plugin.so -plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/7/lto-wrapper -plugin-opt=-fresolution=/tmp/ccFiMfcr.res -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s --sysroot=/ --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -dynamic-linker /lib64/ld-linux-x86-64.so.2 -pie -z now -z relro -o cmTC_41f29 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/Scrt1.o /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/7/crtbeginS.o -L/usr/lib/gcc/x86_64-linux-gnu/7 -L/usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/7/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/7/../../.. CMakeFiles/cmTC_41f29.dir/CMakeCCompilerABI.c.o -lgcc --push-state --as-needed -lgcc_s --pop-state -lc -lgcc --push-state --as-needed -lgcc_s --pop-state /usr/lib/gcc/x86_64-linux-gnu/7/crtendS.o /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crtn.o
+COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_41f29' '-mtune=generic' '-march=x86-64'
+make[1]: Leaving directory '/home/bbk/CLionProjects/OpenGLPlayground/TextureLoader/cmake-build-debug/CMakeFiles/CMakeTmp'
 
 
 Parsed C implicit link information from above output:
   link line regex: [^( *|.*[/\])(ld|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\]+-)?ld|collect2)[^/\]*( |$)]
-  ignore line: [Change Dir: /home/bbk/CLionProjects/OpenGLPlayground/Light/cmake-build-debug/CMakeFiles/CMakeTmp]
+  ignore line: [Change Dir: /home/bbk/CLionProjects/OpenGLPlayground/TextureLoader/cmake-build-debug/CMakeFiles/CMakeTmp]
   ignore line: []
-  ignore line: [Run Build Command:"/usr/bin/make" "cmTC_def9f/fast"]
-  ignore line: [/usr/bin/make -f CMakeFiles/cmTC_def9f.dir/build.make CMakeFiles/cmTC_def9f.dir/build]
-  ignore line: [make[1]: Entering directory '/home/bbk/CLionProjects/OpenGLPlayground/Light/cmake-build-debug/CMakeFiles/CMakeTmp']
-  ignore line: [Building C object CMakeFiles/cmTC_def9f.dir/CMakeCCompilerABI.c.o]
-  ignore line: [/usr/bin/cc    -o CMakeFiles/cmTC_def9f.dir/CMakeCCompilerABI.c.o   -c /home/bbk/ProgramFiles/CLion/bin/cmake/linux/share/cmake-3.12/Modules/CMakeCCompilerABI.c]
-  ignore line: [Linking C executable cmTC_def9f]
-  ignore line: [/home/bbk/ProgramFiles/CLion/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_def9f.dir/link.txt --verbose=1]
-  ignore line: [/usr/bin/cc     -v CMakeFiles/cmTC_def9f.dir/CMakeCCompilerABI.c.o  -o cmTC_def9f ]
+  ignore line: [Run Build Command:"/usr/bin/make" "cmTC_41f29/fast"]
+  ignore line: [/usr/bin/make -f CMakeFiles/cmTC_41f29.dir/build.make CMakeFiles/cmTC_41f29.dir/build]
+  ignore line: [make[1]: Entering directory '/home/bbk/CLionProjects/OpenGLPlayground/TextureLoader/cmake-build-debug/CMakeFiles/CMakeTmp']
+  ignore line: [Building C object CMakeFiles/cmTC_41f29.dir/CMakeCCompilerABI.c.o]
+  ignore line: [/usr/bin/cc    -o CMakeFiles/cmTC_41f29.dir/CMakeCCompilerABI.c.o   -c /home/bbk/ProgramFiles/CLion/bin/cmake/linux/share/cmake-3.12/Modules/CMakeCCompilerABI.c]
+  ignore line: [Linking C executable cmTC_41f29]
+  ignore line: [/home/bbk/ProgramFiles/CLion/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_41f29.dir/link.txt --verbose=1]
+  ignore line: [/usr/bin/cc     -v CMakeFiles/cmTC_41f29.dir/CMakeCCompilerABI.c.o  -o cmTC_41f29 ]
   ignore line: [Using built-in specs.]
   ignore line: [COLLECT_GCC=/usr/bin/cc]
   ignore line: [COLLECT_LTO_WRAPPER=/usr/lib/gcc/x86_64-linux-gnu/7/lto-wrapper]
@@ -90,13 +90,13 @@ Parsed C implicit link information from above output:
   ignore line: [gcc version 7.3.0 (Ubuntu 7.3.0-16ubuntu3) ]
   ignore line: [COMPILER_PATH=/usr/lib/gcc/x86_64-linux-gnu/7/:/usr/lib/gcc/x86_64-linux-gnu/7/:/usr/lib/gcc/x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/7/:/usr/lib/gcc/x86_64-linux-gnu/]
   ignore line: [LIBRARY_PATH=/usr/lib/gcc/x86_64-linux-gnu/7/:/usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/7/../../../../lib/:/lib/x86_64-linux-gnu/:/lib/../lib/:/usr/lib/x86_64-linux-gnu/:/usr/lib/../lib/:/usr/lib/gcc/x86_64-linux-gnu/7/../../../:/lib/:/usr/lib/]
-  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_def9f' '-mtune=generic' '-march=x86-64']
-  link line: [ /usr/lib/gcc/x86_64-linux-gnu/7/collect2 -plugin /usr/lib/gcc/x86_64-linux-gnu/7/liblto_plugin.so -plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/7/lto-wrapper -plugin-opt=-fresolution=/tmp/cc5X9RGI.res -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s --sysroot=/ --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -dynamic-linker /lib64/ld-linux-x86-64.so.2 -pie -z now -z relro -o cmTC_def9f /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/Scrt1.o /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/7/crtbeginS.o -L/usr/lib/gcc/x86_64-linux-gnu/7 -L/usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/7/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/7/../../.. CMakeFiles/cmTC_def9f.dir/CMakeCCompilerABI.c.o -lgcc --push-state --as-needed -lgcc_s --pop-state -lc -lgcc --push-state --as-needed -lgcc_s --pop-state /usr/lib/gcc/x86_64-linux-gnu/7/crtendS.o /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crtn.o]
+  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_41f29' '-mtune=generic' '-march=x86-64']
+  link line: [ /usr/lib/gcc/x86_64-linux-gnu/7/collect2 -plugin /usr/lib/gcc/x86_64-linux-gnu/7/liblto_plugin.so -plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/7/lto-wrapper -plugin-opt=-fresolution=/tmp/ccFiMfcr.res -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s --sysroot=/ --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -dynamic-linker /lib64/ld-linux-x86-64.so.2 -pie -z now -z relro -o cmTC_41f29 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/Scrt1.o /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/7/crtbeginS.o -L/usr/lib/gcc/x86_64-linux-gnu/7 -L/usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/7/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/7/../../.. CMakeFiles/cmTC_41f29.dir/CMakeCCompilerABI.c.o -lgcc --push-state --as-needed -lgcc_s --pop-state -lc -lgcc --push-state --as-needed -lgcc_s --pop-state /usr/lib/gcc/x86_64-linux-gnu/7/crtendS.o /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crtn.o]
     arg [/usr/lib/gcc/x86_64-linux-gnu/7/collect2] ==> ignore
     arg [-plugin] ==> ignore
     arg [/usr/lib/gcc/x86_64-linux-gnu/7/liblto_plugin.so] ==> ignore
     arg [-plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/7/lto-wrapper] ==> ignore
-    arg [-plugin-opt=-fresolution=/tmp/cc5X9RGI.res] ==> ignore
+    arg [-plugin-opt=-fresolution=/tmp/ccFiMfcr.res] ==> ignore
     arg [-plugin-opt=-pass-through=-lgcc] ==> ignore
     arg [-plugin-opt=-pass-through=-lgcc_s] ==> ignore
     arg [-plugin-opt=-pass-through=-lc] ==> ignore
@@ -115,7 +115,7 @@ Parsed C implicit link information from above output:
     arg [-znow] ==> ignore
     arg [-zrelro] ==> ignore
     arg [-o] ==> ignore
-    arg [cmTC_def9f] ==> ignore
+    arg [cmTC_41f29] ==> ignore
     arg [/usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/Scrt1.o] ==> ignore
     arg [/usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o] ==> ignore
     arg [/usr/lib/gcc/x86_64-linux-gnu/7/crtbeginS.o] ==> ignore
@@ -127,7 +127,7 @@ Parsed C implicit link information from above output:
     arg [-L/usr/lib/x86_64-linux-gnu] ==> dir [/usr/lib/x86_64-linux-gnu]
     arg [-L/usr/lib/../lib] ==> dir [/usr/lib/../lib]
     arg [-L/usr/lib/gcc/x86_64-linux-gnu/7/../../..] ==> dir [/usr/lib/gcc/x86_64-linux-gnu/7/../../..]
-    arg [CMakeFiles/cmTC_def9f.dir/CMakeCCompilerABI.c.o] ==> ignore
+    arg [CMakeFiles/cmTC_41f29.dir/CMakeCCompilerABI.c.o] ==> ignore
     arg [-lgcc] ==> lib [gcc]
     arg [--push-state] ==> ignore
     arg [--as-needed] ==> ignore
@@ -157,17 +157,17 @@ Parsed C implicit link information from above output:
 
 
 Detecting C [-std=c11] compiler features compiled with the following output:
-Change Dir: /home/bbk/CLionProjects/OpenGLPlayground/Light/cmake-build-debug/CMakeFiles/CMakeTmp
+Change Dir: /home/bbk/CLionProjects/OpenGLPlayground/TextureLoader/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_d80db/fast"
-/usr/bin/make -f CMakeFiles/cmTC_d80db.dir/build.make CMakeFiles/cmTC_d80db.dir/build
-make[1]: Entering directory '/home/bbk/CLionProjects/OpenGLPlayground/Light/cmake-build-debug/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_d80db.dir/feature_tests.c.o
-/usr/bin/cc   -std=c11 -o CMakeFiles/cmTC_d80db.dir/feature_tests.c.o   -c /home/bbk/CLionProjects/OpenGLPlayground/Light/cmake-build-debug/CMakeFiles/feature_tests.c
-Linking C executable cmTC_d80db
-/home/bbk/ProgramFiles/CLion/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_d80db.dir/link.txt --verbose=1
-/usr/bin/cc      CMakeFiles/cmTC_d80db.dir/feature_tests.c.o  -o cmTC_d80db 
-make[1]: Leaving directory '/home/bbk/CLionProjects/OpenGLPlayground/Light/cmake-build-debug/CMakeFiles/CMakeTmp'
+Run Build Command:"/usr/bin/make" "cmTC_1cc78/fast"
+/usr/bin/make -f CMakeFiles/cmTC_1cc78.dir/build.make CMakeFiles/cmTC_1cc78.dir/build
+make[1]: Entering directory '/home/bbk/CLionProjects/OpenGLPlayground/TextureLoader/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_1cc78.dir/feature_tests.c.o
+/usr/bin/cc   -std=c11 -o CMakeFiles/cmTC_1cc78.dir/feature_tests.c.o   -c /home/bbk/CLionProjects/OpenGLPlayground/TextureLoader/cmake-build-debug/CMakeFiles/feature_tests.c
+Linking C executable cmTC_1cc78
+/home/bbk/ProgramFiles/CLion/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_1cc78.dir/link.txt --verbose=1
+/usr/bin/cc      CMakeFiles/cmTC_1cc78.dir/feature_tests.c.o  -o cmTC_1cc78 
+make[1]: Leaving directory '/home/bbk/CLionProjects/OpenGLPlayground/TextureLoader/cmake-build-debug/CMakeFiles/CMakeTmp'
 
 
     Feature record: C_FEATURE:1c_function_prototypes
@@ -177,17 +177,17 @@ make[1]: Leaving directory '/home/bbk/CLionProjects/OpenGLPlayground/Light/cmake
 
 
 Detecting C [-std=c99] compiler features compiled with the following output:
-Change Dir: /home/bbk/CLionProjects/OpenGLPlayground/Light/cmake-build-debug/CMakeFiles/CMakeTmp
+Change Dir: /home/bbk/CLionProjects/OpenGLPlayground/TextureLoader/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_9460e/fast"
-/usr/bin/make -f CMakeFiles/cmTC_9460e.dir/build.make CMakeFiles/cmTC_9460e.dir/build
-make[1]: Entering directory '/home/bbk/CLionProjects/OpenGLPlayground/Light/cmake-build-debug/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_9460e.dir/feature_tests.c.o
-/usr/bin/cc   -std=c99 -o CMakeFiles/cmTC_9460e.dir/feature_tests.c.o   -c /home/bbk/CLionProjects/OpenGLPlayground/Light/cmake-build-debug/CMakeFiles/feature_tests.c
-Linking C executable cmTC_9460e
-/home/bbk/ProgramFiles/CLion/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_9460e.dir/link.txt --verbose=1
-/usr/bin/cc      CMakeFiles/cmTC_9460e.dir/feature_tests.c.o  -o cmTC_9460e 
-make[1]: Leaving directory '/home/bbk/CLionProjects/OpenGLPlayground/Light/cmake-build-debug/CMakeFiles/CMakeTmp'
+Run Build Command:"/usr/bin/make" "cmTC_2fb1c/fast"
+/usr/bin/make -f CMakeFiles/cmTC_2fb1c.dir/build.make CMakeFiles/cmTC_2fb1c.dir/build
+make[1]: Entering directory '/home/bbk/CLionProjects/OpenGLPlayground/TextureLoader/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_2fb1c.dir/feature_tests.c.o
+/usr/bin/cc   -std=c99 -o CMakeFiles/cmTC_2fb1c.dir/feature_tests.c.o   -c /home/bbk/CLionProjects/OpenGLPlayground/TextureLoader/cmake-build-debug/CMakeFiles/feature_tests.c
+Linking C executable cmTC_2fb1c
+/home/bbk/ProgramFiles/CLion/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_2fb1c.dir/link.txt --verbose=1
+/usr/bin/cc      CMakeFiles/cmTC_2fb1c.dir/feature_tests.c.o  -o cmTC_2fb1c 
+make[1]: Leaving directory '/home/bbk/CLionProjects/OpenGLPlayground/TextureLoader/cmake-build-debug/CMakeFiles/CMakeTmp'
 
 
     Feature record: C_FEATURE:1c_function_prototypes
@@ -197,17 +197,17 @@ make[1]: Leaving directory '/home/bbk/CLionProjects/OpenGLPlayground/Light/cmake
 
 
 Detecting C [-std=c90] compiler features compiled with the following output:
-Change Dir: /home/bbk/CLionProjects/OpenGLPlayground/Light/cmake-build-debug/CMakeFiles/CMakeTmp
+Change Dir: /home/bbk/CLionProjects/OpenGLPlayground/TextureLoader/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_e56e5/fast"
-/usr/bin/make -f CMakeFiles/cmTC_e56e5.dir/build.make CMakeFiles/cmTC_e56e5.dir/build
-make[1]: Entering directory '/home/bbk/CLionProjects/OpenGLPlayground/Light/cmake-build-debug/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_e56e5.dir/feature_tests.c.o
-/usr/bin/cc   -std=c90 -o CMakeFiles/cmTC_e56e5.dir/feature_tests.c.o   -c /home/bbk/CLionProjects/OpenGLPlayground/Light/cmake-build-debug/CMakeFiles/feature_tests.c
-Linking C executable cmTC_e56e5
-/home/bbk/ProgramFiles/CLion/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_e56e5.dir/link.txt --verbose=1
-/usr/bin/cc      CMakeFiles/cmTC_e56e5.dir/feature_tests.c.o  -o cmTC_e56e5 
-make[1]: Leaving directory '/home/bbk/CLionProjects/OpenGLPlayground/Light/cmake-build-debug/CMakeFiles/CMakeTmp'
+Run Build Command:"/usr/bin/make" "cmTC_2ac3a/fast"
+/usr/bin/make -f CMakeFiles/cmTC_2ac3a.dir/build.make CMakeFiles/cmTC_2ac3a.dir/build
+make[1]: Entering directory '/home/bbk/CLionProjects/OpenGLPlayground/TextureLoader/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_2ac3a.dir/feature_tests.c.o
+/usr/bin/cc   -std=c90 -o CMakeFiles/cmTC_2ac3a.dir/feature_tests.c.o   -c /home/bbk/CLionProjects/OpenGLPlayground/TextureLoader/cmake-build-debug/CMakeFiles/feature_tests.c
+Linking C executable cmTC_2ac3a
+/home/bbk/ProgramFiles/CLion/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_2ac3a.dir/link.txt --verbose=1
+/usr/bin/cc      CMakeFiles/cmTC_2ac3a.dir/feature_tests.c.o  -o cmTC_2ac3a 
+make[1]: Leaving directory '/home/bbk/CLionProjects/OpenGLPlayground/TextureLoader/cmake-build-debug/CMakeFiles/CMakeTmp'
 
 
     Feature record: C_FEATURE:1c_function_prototypes
@@ -215,30 +215,30 @@ make[1]: Leaving directory '/home/bbk/CLionProjects/OpenGLPlayground/Light/cmake
     Feature record: C_FEATURE:0c_static_assert
     Feature record: C_FEATURE:0c_variadic_macros
 Determining if the CXX compiler works passed with the following output:
-Change Dir: /home/bbk/CLionProjects/OpenGLPlayground/Light/cmake-build-debug/CMakeFiles/CMakeTmp
+Change Dir: /home/bbk/CLionProjects/OpenGLPlayground/TextureLoader/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_1c9e9/fast"
-/usr/bin/make -f CMakeFiles/cmTC_1c9e9.dir/build.make CMakeFiles/cmTC_1c9e9.dir/build
-make[1]: Entering directory '/home/bbk/CLionProjects/OpenGLPlayground/Light/cmake-build-debug/CMakeFiles/CMakeTmp'
-Building CXX object CMakeFiles/cmTC_1c9e9.dir/testCXXCompiler.cxx.o
-/usr/bin/c++     -o CMakeFiles/cmTC_1c9e9.dir/testCXXCompiler.cxx.o -c /home/bbk/CLionProjects/OpenGLPlayground/Light/cmake-build-debug/CMakeFiles/CMakeTmp/testCXXCompiler.cxx
-Linking CXX executable cmTC_1c9e9
-/home/bbk/ProgramFiles/CLion/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_1c9e9.dir/link.txt --verbose=1
-/usr/bin/c++       CMakeFiles/cmTC_1c9e9.dir/testCXXCompiler.cxx.o  -o cmTC_1c9e9 
-make[1]: Leaving directory '/home/bbk/CLionProjects/OpenGLPlayground/Light/cmake-build-debug/CMakeFiles/CMakeTmp'
+Run Build Command:"/usr/bin/make" "cmTC_bae0e/fast"
+/usr/bin/make -f CMakeFiles/cmTC_bae0e.dir/build.make CMakeFiles/cmTC_bae0e.dir/build
+make[1]: Entering directory '/home/bbk/CLionProjects/OpenGLPlayground/TextureLoader/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_bae0e.dir/testCXXCompiler.cxx.o
+/usr/bin/c++     -o CMakeFiles/cmTC_bae0e.dir/testCXXCompiler.cxx.o -c /home/bbk/CLionProjects/OpenGLPlayground/TextureLoader/cmake-build-debug/CMakeFiles/CMakeTmp/testCXXCompiler.cxx
+Linking CXX executable cmTC_bae0e
+/home/bbk/ProgramFiles/CLion/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_bae0e.dir/link.txt --verbose=1
+/usr/bin/c++       CMakeFiles/cmTC_bae0e.dir/testCXXCompiler.cxx.o  -o cmTC_bae0e 
+make[1]: Leaving directory '/home/bbk/CLionProjects/OpenGLPlayground/TextureLoader/cmake-build-debug/CMakeFiles/CMakeTmp'
 
 
 Detecting CXX compiler ABI info compiled with the following output:
-Change Dir: /home/bbk/CLionProjects/OpenGLPlayground/Light/cmake-build-debug/CMakeFiles/CMakeTmp
+Change Dir: /home/bbk/CLionProjects/OpenGLPlayground/TextureLoader/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_bde11/fast"
-/usr/bin/make -f CMakeFiles/cmTC_bde11.dir/build.make CMakeFiles/cmTC_bde11.dir/build
-make[1]: Entering directory '/home/bbk/CLionProjects/OpenGLPlayground/Light/cmake-build-debug/CMakeFiles/CMakeTmp'
-Building CXX object CMakeFiles/cmTC_bde11.dir/CMakeCXXCompilerABI.cpp.o
-/usr/bin/c++     -o CMakeFiles/cmTC_bde11.dir/CMakeCXXCompilerABI.cpp.o -c /home/bbk/ProgramFiles/CLion/bin/cmake/linux/share/cmake-3.12/Modules/CMakeCXXCompilerABI.cpp
-Linking CXX executable cmTC_bde11
-/home/bbk/ProgramFiles/CLion/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_bde11.dir/link.txt --verbose=1
-/usr/bin/c++      -v CMakeFiles/cmTC_bde11.dir/CMakeCXXCompilerABI.cpp.o  -o cmTC_bde11 
+Run Build Command:"/usr/bin/make" "cmTC_ff3b8/fast"
+/usr/bin/make -f CMakeFiles/cmTC_ff3b8.dir/build.make CMakeFiles/cmTC_ff3b8.dir/build
+make[1]: Entering directory '/home/bbk/CLionProjects/OpenGLPlayground/TextureLoader/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_ff3b8.dir/CMakeCXXCompilerABI.cpp.o
+/usr/bin/c++     -o CMakeFiles/cmTC_ff3b8.dir/CMakeCXXCompilerABI.cpp.o -c /home/bbk/ProgramFiles/CLion/bin/cmake/linux/share/cmake-3.12/Modules/CMakeCXXCompilerABI.cpp
+Linking CXX executable cmTC_ff3b8
+/home/bbk/ProgramFiles/CLion/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_ff3b8.dir/link.txt --verbose=1
+/usr/bin/c++      -v CMakeFiles/cmTC_ff3b8.dir/CMakeCXXCompilerABI.cpp.o  -o cmTC_ff3b8 
 Using built-in specs.
 COLLECT_GCC=/usr/bin/c++
 COLLECT_LTO_WRAPPER=/usr/lib/gcc/x86_64-linux-gnu/7/lto-wrapper
@@ -250,24 +250,24 @@ Thread model: posix
 gcc version 7.3.0 (Ubuntu 7.3.0-16ubuntu3) 
 COMPILER_PATH=/usr/lib/gcc/x86_64-linux-gnu/7/:/usr/lib/gcc/x86_64-linux-gnu/7/:/usr/lib/gcc/x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/7/:/usr/lib/gcc/x86_64-linux-gnu/
 LIBRARY_PATH=/usr/lib/gcc/x86_64-linux-gnu/7/:/usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/7/../../../../lib/:/lib/x86_64-linux-gnu/:/lib/../lib/:/usr/lib/x86_64-linux-gnu/:/usr/lib/../lib/:/usr/lib/gcc/x86_64-linux-gnu/7/../../../:/lib/:/usr/lib/
-COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_bde11' '-shared-libgcc' '-mtune=generic' '-march=x86-64'
- /usr/lib/gcc/x86_64-linux-gnu/7/collect2 -plugin /usr/lib/gcc/x86_64-linux-gnu/7/liblto_plugin.so -plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/7/lto-wrapper -plugin-opt=-fresolution=/tmp/ccOP44aa.res -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc --sysroot=/ --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -dynamic-linker /lib64/ld-linux-x86-64.so.2 -pie -z now -z relro -o cmTC_bde11 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/Scrt1.o /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/7/crtbeginS.o -L/usr/lib/gcc/x86_64-linux-gnu/7 -L/usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/7/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/7/../../.. CMakeFiles/cmTC_bde11.dir/CMakeCXXCompilerABI.cpp.o -lstdc++ -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc /usr/lib/gcc/x86_64-linux-gnu/7/crtendS.o /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crtn.o
-COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_bde11' '-shared-libgcc' '-mtune=generic' '-march=x86-64'
-make[1]: Leaving directory '/home/bbk/CLionProjects/OpenGLPlayground/Light/cmake-build-debug/CMakeFiles/CMakeTmp'
+COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_ff3b8' '-shared-libgcc' '-mtune=generic' '-march=x86-64'
+ /usr/lib/gcc/x86_64-linux-gnu/7/collect2 -plugin /usr/lib/gcc/x86_64-linux-gnu/7/liblto_plugin.so -plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/7/lto-wrapper -plugin-opt=-fresolution=/tmp/ccaF4lkO.res -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc --sysroot=/ --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -dynamic-linker /lib64/ld-linux-x86-64.so.2 -pie -z now -z relro -o cmTC_ff3b8 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/Scrt1.o /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/7/crtbeginS.o -L/usr/lib/gcc/x86_64-linux-gnu/7 -L/usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/7/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/7/../../.. CMakeFiles/cmTC_ff3b8.dir/CMakeCXXCompilerABI.cpp.o -lstdc++ -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc /usr/lib/gcc/x86_64-linux-gnu/7/crtendS.o /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crtn.o
+COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_ff3b8' '-shared-libgcc' '-mtune=generic' '-march=x86-64'
+make[1]: Leaving directory '/home/bbk/CLionProjects/OpenGLPlayground/TextureLoader/cmake-build-debug/CMakeFiles/CMakeTmp'
 
 
 Parsed CXX implicit link information from above output:
   link line regex: [^( *|.*[/\])(ld|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\]+-)?ld|collect2)[^/\]*( |$)]
-  ignore line: [Change Dir: /home/bbk/CLionProjects/OpenGLPlayground/Light/cmake-build-debug/CMakeFiles/CMakeTmp]
+  ignore line: [Change Dir: /home/bbk/CLionProjects/OpenGLPlayground/TextureLoader/cmake-build-debug/CMakeFiles/CMakeTmp]
   ignore line: []
-  ignore line: [Run Build Command:"/usr/bin/make" "cmTC_bde11/fast"]
-  ignore line: [/usr/bin/make -f CMakeFiles/cmTC_bde11.dir/build.make CMakeFiles/cmTC_bde11.dir/build]
-  ignore line: [make[1]: Entering directory '/home/bbk/CLionProjects/OpenGLPlayground/Light/cmake-build-debug/CMakeFiles/CMakeTmp']
-  ignore line: [Building CXX object CMakeFiles/cmTC_bde11.dir/CMakeCXXCompilerABI.cpp.o]
-  ignore line: [/usr/bin/c++     -o CMakeFiles/cmTC_bde11.dir/CMakeCXXCompilerABI.cpp.o -c /home/bbk/ProgramFiles/CLion/bin/cmake/linux/share/cmake-3.12/Modules/CMakeCXXCompilerABI.cpp]
-  ignore line: [Linking CXX executable cmTC_bde11]
-  ignore line: [/home/bbk/ProgramFiles/CLion/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_bde11.dir/link.txt --verbose=1]
-  ignore line: [/usr/bin/c++      -v CMakeFiles/cmTC_bde11.dir/CMakeCXXCompilerABI.cpp.o  -o cmTC_bde11 ]
+  ignore line: [Run Build Command:"/usr/bin/make" "cmTC_ff3b8/fast"]
+  ignore line: [/usr/bin/make -f CMakeFiles/cmTC_ff3b8.dir/build.make CMakeFiles/cmTC_ff3b8.dir/build]
+  ignore line: [make[1]: Entering directory '/home/bbk/CLionProjects/OpenGLPlayground/TextureLoader/cmake-build-debug/CMakeFiles/CMakeTmp']
+  ignore line: [Building CXX object CMakeFiles/cmTC_ff3b8.dir/CMakeCXXCompilerABI.cpp.o]
+  ignore line: [/usr/bin/c++     -o CMakeFiles/cmTC_ff3b8.dir/CMakeCXXCompilerABI.cpp.o -c /home/bbk/ProgramFiles/CLion/bin/cmake/linux/share/cmake-3.12/Modules/CMakeCXXCompilerABI.cpp]
+  ignore line: [Linking CXX executable cmTC_ff3b8]
+  ignore line: [/home/bbk/ProgramFiles/CLion/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_ff3b8.dir/link.txt --verbose=1]
+  ignore line: [/usr/bin/c++      -v CMakeFiles/cmTC_ff3b8.dir/CMakeCXXCompilerABI.cpp.o  -o cmTC_ff3b8 ]
   ignore line: [Using built-in specs.]
   ignore line: [COLLECT_GCC=/usr/bin/c++]
   ignore line: [COLLECT_LTO_WRAPPER=/usr/lib/gcc/x86_64-linux-gnu/7/lto-wrapper]
@@ -279,13 +279,13 @@ Parsed CXX implicit link information from above output:
   ignore line: [gcc version 7.3.0 (Ubuntu 7.3.0-16ubuntu3) ]
   ignore line: [COMPILER_PATH=/usr/lib/gcc/x86_64-linux-gnu/7/:/usr/lib/gcc/x86_64-linux-gnu/7/:/usr/lib/gcc/x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/7/:/usr/lib/gcc/x86_64-linux-gnu/]
   ignore line: [LIBRARY_PATH=/usr/lib/gcc/x86_64-linux-gnu/7/:/usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/7/../../../../lib/:/lib/x86_64-linux-gnu/:/lib/../lib/:/usr/lib/x86_64-linux-gnu/:/usr/lib/../lib/:/usr/lib/gcc/x86_64-linux-gnu/7/../../../:/lib/:/usr/lib/]
-  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_bde11' '-shared-libgcc' '-mtune=generic' '-march=x86-64']
-  link line: [ /usr/lib/gcc/x86_64-linux-gnu/7/collect2 -plugin /usr/lib/gcc/x86_64-linux-gnu/7/liblto_plugin.so -plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/7/lto-wrapper -plugin-opt=-fresolution=/tmp/ccOP44aa.res -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc --sysroot=/ --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -dynamic-linker /lib64/ld-linux-x86-64.so.2 -pie -z now -z relro -o cmTC_bde11 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/Scrt1.o /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/7/crtbeginS.o -L/usr/lib/gcc/x86_64-linux-gnu/7 -L/usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/7/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/7/../../.. CMakeFiles/cmTC_bde11.dir/CMakeCXXCompilerABI.cpp.o -lstdc++ -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc /usr/lib/gcc/x86_64-linux-gnu/7/crtendS.o /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crtn.o]
+  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_ff3b8' '-shared-libgcc' '-mtune=generic' '-march=x86-64']
+  link line: [ /usr/lib/gcc/x86_64-linux-gnu/7/collect2 -plugin /usr/lib/gcc/x86_64-linux-gnu/7/liblto_plugin.so -plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/7/lto-wrapper -plugin-opt=-fresolution=/tmp/ccaF4lkO.res -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc --sysroot=/ --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -dynamic-linker /lib64/ld-linux-x86-64.so.2 -pie -z now -z relro -o cmTC_ff3b8 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/Scrt1.o /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/7/crtbeginS.o -L/usr/lib/gcc/x86_64-linux-gnu/7 -L/usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/7/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/7/../../.. CMakeFiles/cmTC_ff3b8.dir/CMakeCXXCompilerABI.cpp.o -lstdc++ -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc /usr/lib/gcc/x86_64-linux-gnu/7/crtendS.o /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crtn.o]
     arg [/usr/lib/gcc/x86_64-linux-gnu/7/collect2] ==> ignore
     arg [-plugin] ==> ignore
     arg [/usr/lib/gcc/x86_64-linux-gnu/7/liblto_plugin.so] ==> ignore
     arg [-plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/7/lto-wrapper] ==> ignore
-    arg [-plugin-opt=-fresolution=/tmp/ccOP44aa.res] ==> ignore
+    arg [-plugin-opt=-fresolution=/tmp/ccaF4lkO.res] ==> ignore
     arg [-plugin-opt=-pass-through=-lgcc_s] ==> ignore
     arg [-plugin-opt=-pass-through=-lgcc] ==> ignore
     arg [-plugin-opt=-pass-through=-lc] ==> ignore
@@ -304,7 +304,7 @@ Parsed CXX implicit link information from above output:
     arg [-znow] ==> ignore
     arg [-zrelro] ==> ignore
     arg [-o] ==> ignore
-    arg [cmTC_bde11] ==> ignore
+    arg [cmTC_ff3b8] ==> ignore
     arg [/usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/Scrt1.o] ==> ignore
     arg [/usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o] ==> ignore
     arg [/usr/lib/gcc/x86_64-linux-gnu/7/crtbeginS.o] ==> ignore
@@ -316,7 +316,7 @@ Parsed CXX implicit link information from above output:
     arg [-L/usr/lib/x86_64-linux-gnu] ==> dir [/usr/lib/x86_64-linux-gnu]
     arg [-L/usr/lib/../lib] ==> dir [/usr/lib/../lib]
     arg [-L/usr/lib/gcc/x86_64-linux-gnu/7/../../..] ==> dir [/usr/lib/gcc/x86_64-linux-gnu/7/../../..]
-    arg [CMakeFiles/cmTC_bde11.dir/CMakeCXXCompilerABI.cpp.o] ==> ignore
+    arg [CMakeFiles/cmTC_ff3b8.dir/CMakeCXXCompilerABI.cpp.o] ==> ignore
     arg [-lstdc++] ==> lib [stdc++]
     arg [-lm] ==> lib [m]
     arg [-lgcc_s] ==> lib [gcc_s]
@@ -342,17 +342,17 @@ Parsed CXX implicit link information from above output:
 
 
 Detecting CXX [-std=c++1z] compiler features compiled with the following output:
-Change Dir: /home/bbk/CLionProjects/OpenGLPlayground/Light/cmake-build-debug/CMakeFiles/CMakeTmp
+Change Dir: /home/bbk/CLionProjects/OpenGLPlayground/TextureLoader/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_99616/fast"
-/usr/bin/make -f CMakeFiles/cmTC_99616.dir/build.make CMakeFiles/cmTC_99616.dir/build
-make[1]: Entering directory '/home/bbk/CLionProjects/OpenGLPlayground/Light/cmake-build-debug/CMakeFiles/CMakeTmp'
-Building CXX object CMakeFiles/cmTC_99616.dir/feature_tests.cxx.o
-/usr/bin/c++    -std=c++1z -o CMakeFiles/cmTC_99616.dir/feature_tests.cxx.o -c /home/bbk/CLionProjects/OpenGLPlayground/Light/cmake-build-debug/CMakeFiles/feature_tests.cxx
-Linking CXX executable cmTC_99616
-/home/bbk/ProgramFiles/CLion/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_99616.dir/link.txt --verbose=1
-/usr/bin/c++       CMakeFiles/cmTC_99616.dir/feature_tests.cxx.o  -o cmTC_99616 
-make[1]: Leaving directory '/home/bbk/CLionProjects/OpenGLPlayground/Light/cmake-build-debug/CMakeFiles/CMakeTmp'
+Run Build Command:"/usr/bin/make" "cmTC_631b7/fast"
+/usr/bin/make -f CMakeFiles/cmTC_631b7.dir/build.make CMakeFiles/cmTC_631b7.dir/build
+make[1]: Entering directory '/home/bbk/CLionProjects/OpenGLPlayground/TextureLoader/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_631b7.dir/feature_tests.cxx.o
+/usr/bin/c++    -std=c++1z -o CMakeFiles/cmTC_631b7.dir/feature_tests.cxx.o -c /home/bbk/CLionProjects/OpenGLPlayground/TextureLoader/cmake-build-debug/CMakeFiles/feature_tests.cxx
+Linking CXX executable cmTC_631b7
+/home/bbk/ProgramFiles/CLion/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_631b7.dir/link.txt --verbose=1
+/usr/bin/c++       CMakeFiles/cmTC_631b7.dir/feature_tests.cxx.o  -o cmTC_631b7 
+make[1]: Leaving directory '/home/bbk/CLionProjects/OpenGLPlayground/TextureLoader/cmake-build-debug/CMakeFiles/CMakeTmp'
 
 
     Feature record: CXX_FEATURE:1cxx_aggregate_default_initializers
@@ -415,17 +415,17 @@ make[1]: Leaving directory '/home/bbk/CLionProjects/OpenGLPlayground/Light/cmake
 
 
 Detecting CXX [-std=c++14] compiler features compiled with the following output:
-Change Dir: /home/bbk/CLionProjects/OpenGLPlayground/Light/cmake-build-debug/CMakeFiles/CMakeTmp
+Change Dir: /home/bbk/CLionProjects/OpenGLPlayground/TextureLoader/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_44577/fast"
-/usr/bin/make -f CMakeFiles/cmTC_44577.dir/build.make CMakeFiles/cmTC_44577.dir/build
-make[1]: Entering directory '/home/bbk/CLionProjects/OpenGLPlayground/Light/cmake-build-debug/CMakeFiles/CMakeTmp'
-Building CXX object CMakeFiles/cmTC_44577.dir/feature_tests.cxx.o
-/usr/bin/c++    -std=c++14 -o CMakeFiles/cmTC_44577.dir/feature_tests.cxx.o -c /home/bbk/CLionProjects/OpenGLPlayground/Light/cmake-build-debug/CMakeFiles/feature_tests.cxx
-Linking CXX executable cmTC_44577
-/home/bbk/ProgramFiles/CLion/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_44577.dir/link.txt --verbose=1
-/usr/bin/c++       CMakeFiles/cmTC_44577.dir/feature_tests.cxx.o  -o cmTC_44577 
-make[1]: Leaving directory '/home/bbk/CLionProjects/OpenGLPlayground/Light/cmake-build-debug/CMakeFiles/CMakeTmp'
+Run Build Command:"/usr/bin/make" "cmTC_68251/fast"
+/usr/bin/make -f CMakeFiles/cmTC_68251.dir/build.make CMakeFiles/cmTC_68251.dir/build
+make[1]: Entering directory '/home/bbk/CLionProjects/OpenGLPlayground/TextureLoader/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_68251.dir/feature_tests.cxx.o
+/usr/bin/c++    -std=c++14 -o CMakeFiles/cmTC_68251.dir/feature_tests.cxx.o -c /home/bbk/CLionProjects/OpenGLPlayground/TextureLoader/cmake-build-debug/CMakeFiles/feature_tests.cxx
+Linking CXX executable cmTC_68251
+/home/bbk/ProgramFiles/CLion/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_68251.dir/link.txt --verbose=1
+/usr/bin/c++       CMakeFiles/cmTC_68251.dir/feature_tests.cxx.o  -o cmTC_68251 
+make[1]: Leaving directory '/home/bbk/CLionProjects/OpenGLPlayground/TextureLoader/cmake-build-debug/CMakeFiles/CMakeTmp'
 
 
     Feature record: CXX_FEATURE:1cxx_aggregate_default_initializers
@@ -488,17 +488,17 @@ make[1]: Leaving directory '/home/bbk/CLionProjects/OpenGLPlayground/Light/cmake
 
 
 Detecting CXX [-std=c++11] compiler features compiled with the following output:
-Change Dir: /home/bbk/CLionProjects/OpenGLPlayground/Light/cmake-build-debug/CMakeFiles/CMakeTmp
+Change Dir: /home/bbk/CLionProjects/OpenGLPlayground/TextureLoader/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_beab2/fast"
-/usr/bin/make -f CMakeFiles/cmTC_beab2.dir/build.make CMakeFiles/cmTC_beab2.dir/build
-make[1]: Entering directory '/home/bbk/CLionProjects/OpenGLPlayground/Light/cmake-build-debug/CMakeFiles/CMakeTmp'
-Building CXX object CMakeFiles/cmTC_beab2.dir/feature_tests.cxx.o
-/usr/bin/c++    -std=c++11 -o CMakeFiles/cmTC_beab2.dir/feature_tests.cxx.o -c /home/bbk/CLionProjects/OpenGLPlayground/Light/cmake-build-debug/CMakeFiles/feature_tests.cxx
-Linking CXX executable cmTC_beab2
-/home/bbk/ProgramFiles/CLion/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_beab2.dir/link.txt --verbose=1
-/usr/bin/c++       CMakeFiles/cmTC_beab2.dir/feature_tests.cxx.o  -o cmTC_beab2 
-make[1]: Leaving directory '/home/bbk/CLionProjects/OpenGLPlayground/Light/cmake-build-debug/CMakeFiles/CMakeTmp'
+Run Build Command:"/usr/bin/make" "cmTC_c21bd/fast"
+/usr/bin/make -f CMakeFiles/cmTC_c21bd.dir/build.make CMakeFiles/cmTC_c21bd.dir/build
+make[1]: Entering directory '/home/bbk/CLionProjects/OpenGLPlayground/TextureLoader/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_c21bd.dir/feature_tests.cxx.o
+/usr/bin/c++    -std=c++11 -o CMakeFiles/cmTC_c21bd.dir/feature_tests.cxx.o -c /home/bbk/CLionProjects/OpenGLPlayground/TextureLoader/cmake-build-debug/CMakeFiles/feature_tests.cxx
+Linking CXX executable cmTC_c21bd
+/home/bbk/ProgramFiles/CLion/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_c21bd.dir/link.txt --verbose=1
+/usr/bin/c++       CMakeFiles/cmTC_c21bd.dir/feature_tests.cxx.o  -o cmTC_c21bd 
+make[1]: Leaving directory '/home/bbk/CLionProjects/OpenGLPlayground/TextureLoader/cmake-build-debug/CMakeFiles/CMakeTmp'
 
 
     Feature record: CXX_FEATURE:0cxx_aggregate_default_initializers
@@ -561,17 +561,17 @@ make[1]: Leaving directory '/home/bbk/CLionProjects/OpenGLPlayground/Light/cmake
 
 
 Detecting CXX [-std=c++98] compiler features compiled with the following output:
-Change Dir: /home/bbk/CLionProjects/OpenGLPlayground/Light/cmake-build-debug/CMakeFiles/CMakeTmp
+Change Dir: /home/bbk/CLionProjects/OpenGLPlayground/TextureLoader/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_16a2c/fast"
-/usr/bin/make -f CMakeFiles/cmTC_16a2c.dir/build.make CMakeFiles/cmTC_16a2c.dir/build
-make[1]: Entering directory '/home/bbk/CLionProjects/OpenGLPlayground/Light/cmake-build-debug/CMakeFiles/CMakeTmp'
-Building CXX object CMakeFiles/cmTC_16a2c.dir/feature_tests.cxx.o
-/usr/bin/c++    -std=c++98 -o CMakeFiles/cmTC_16a2c.dir/feature_tests.cxx.o -c /home/bbk/CLionProjects/OpenGLPlayground/Light/cmake-build-debug/CMakeFiles/feature_tests.cxx
-Linking CXX executable cmTC_16a2c
-/home/bbk/ProgramFiles/CLion/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_16a2c.dir/link.txt --verbose=1
-/usr/bin/c++       CMakeFiles/cmTC_16a2c.dir/feature_tests.cxx.o  -o cmTC_16a2c 
-make[1]: Leaving directory '/home/bbk/CLionProjects/OpenGLPlayground/Light/cmake-build-debug/CMakeFiles/CMakeTmp'
+Run Build Command:"/usr/bin/make" "cmTC_367ea/fast"
+/usr/bin/make -f CMakeFiles/cmTC_367ea.dir/build.make CMakeFiles/cmTC_367ea.dir/build
+make[1]: Entering directory '/home/bbk/CLionProjects/OpenGLPlayground/TextureLoader/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_367ea.dir/feature_tests.cxx.o
+/usr/bin/c++    -std=c++98 -o CMakeFiles/cmTC_367ea.dir/feature_tests.cxx.o -c /home/bbk/CLionProjects/OpenGLPlayground/TextureLoader/cmake-build-debug/CMakeFiles/feature_tests.cxx
+Linking CXX executable cmTC_367ea
+/home/bbk/ProgramFiles/CLion/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_367ea.dir/link.txt --verbose=1
+/usr/bin/c++       CMakeFiles/cmTC_367ea.dir/feature_tests.cxx.o  -o cmTC_367ea 
+make[1]: Leaving directory '/home/bbk/CLionProjects/OpenGLPlayground/TextureLoader/cmake-build-debug/CMakeFiles/CMakeTmp'
 
 
     Feature record: CXX_FEATURE:0cxx_aggregate_default_initializers

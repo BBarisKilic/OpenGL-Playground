@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/bbk/CLionProjects/OpenGLPlayground/Light/main.cpp" "/home/bbk/CLionProjects/OpenGLPlayground/Light/cmake-build-debug/CMakeFiles/Light.dir/main.cpp.o"
+  "/home/bbk/CLionProjects/OpenGLPlayground/TextureLoader/main.cpp" "/home/bbk/CLionProjects/OpenGLPlayground/TextureLoader/cmake-build-debug/CMakeFiles/TextureLoader.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

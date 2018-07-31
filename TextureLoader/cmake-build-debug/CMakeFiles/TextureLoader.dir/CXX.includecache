@@ -6,10 +6,12 @@
 
 #IncludeRegexTransform: 
 
-/home/bbk/CLionProjects/Light/main.cpp
+/home/bbk/CLionProjects/OpenGLPlayground/TextureLoader/main.cpp
 iostream
 -
 SDL2/SDL.h
+-
+SDL2/SDL_main.h
 -
 GL/gl.h
 -
