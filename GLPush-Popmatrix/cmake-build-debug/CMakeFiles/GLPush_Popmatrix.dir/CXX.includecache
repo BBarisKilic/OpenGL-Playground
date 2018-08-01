@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/bbk/CLionProjects/OpenGLPlayground/GLPush-Popmatrix/display.cpp
+display.h
+/home/bbk/CLionProjects/OpenGLPlayground/GLPush-Popmatrix/display.h
+
+/home/bbk/CLionProjects/OpenGLPlayground/GLPush-Popmatrix/display.h
+string.h
+-
+GL/gl.h
+-
+GL/glu.h
+-
+SDL2/SDL.h
+-
+iostream
+-
+algorithm
+-
+vector
+-
+cstdio
+-
+cstdlib
+-
+fstream
+-
+
