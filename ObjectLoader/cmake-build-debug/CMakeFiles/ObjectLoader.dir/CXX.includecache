@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/bbk/CLionProjects/OpenGLPlayground/ObjectLoader/display.cpp
+display.h
+/home/bbk/CLionProjects/OpenGLPlayground/ObjectLoader/display.h
+
+/home/bbk/CLionProjects/OpenGLPlayground/ObjectLoader/display.h
+string.h
+-
+GL/gl.h
+-
+GL/glu.h
+-
+SDL2/SDL.h
+-
+iostream
+-
+algorithm
+-
+vector
+-
+cstdio
+-
+cstdlib
+-
+fstream
+-
+
+/home/bbk/CLionProjects/OpenGLPlayground/ObjectLoader/main.cpp
+display.h
+/home/bbk/CLionProjects/OpenGLPlayground/ObjectLoader/display.h
+
