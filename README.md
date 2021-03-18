@@ -1,2 +1,3 @@
 # OpenGLPlayground
-This repository contains OpenGL samples. All samples was written by me solely with the C++ Programming Language and was used SDL2 and OpenGL libraries.
+This repository contains OpenGL samples. All samples were written by me solely with the C++ Language and used SDL2, OpenGL libraries.
+
